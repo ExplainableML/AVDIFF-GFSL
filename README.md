@@ -1,9 +1,9 @@
 # Text-to-feature diffusion for audio-visual few-shot learning
-## [Paper]() | [Project Page]()
+## [Paper](https://arxiv.org/abs/2309.03869) | [Project Page](https://www.eml-unitue.de/publication/audio-visual-fsl)
 
 
 This repository is the official implementation of [Text-to-feature diffusion for audio-visual few-shot
-learning](https://arxiv.org/abs/2207.09966).
+learning](https://arxiv.org/abs/2309.03869).
 
 <img src="/img/AVDiff.png" width="700" height="700">
 
